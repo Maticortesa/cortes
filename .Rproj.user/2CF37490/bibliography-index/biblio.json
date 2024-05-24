@@ -1,0 +1,31 @@
+{
+    "sources": [
+        {
+            "DOI": "10.2139/ssrn.2324255",
+            "author": [
+                {
+                    "family": "Kris-Stella Trump"
+                },
+                {
+                    "family": "Trump",
+                    "given": "Kris-Stella"
+                }
+            ],
+            "container-title": "British Journal of Political Science",
+            "id": "kris-stellatrump2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "note": "DOI: 10.2139/ssrn.2324255 MAG ID: 809623511",
+            "title": "Income inequality influences perceptions of legitimate income differences",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}
